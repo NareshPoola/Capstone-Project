@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Feddup</string>
+    <string name="drafts">Drafts</string>
+    <string name="favorites">Favorites</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="downvotes_format">-%d</string>
+    <string name="post_title">Post Title</string>
+    <string name="username">Username</string>
+    <string name="content">Content</string>
+    <string name="length_validator">Should be between %1$d and %2$d</string>
+    <string name="post_created">Post Created</string>
+    <string name="post_saved">Post Saved</string>
+    <string name="undo">Undo</string>
+    <string name="retry">Retry</string>
+    <string name="post_save_failed">Saving Post Failed</string>
+    <string name="post_delete_failed">Deleting Post Failed</string>
+    <string name="error_updating_draft">Error updating Draft. Create new?</string>
+    <string name="no_draft_to_delete">No Draft to Delete. Create new?</string>
+    <string name="draft_deleted">Draft Deleted</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_image_failed">Failed to load image</string>
+    <string name="saving_in_drafts_undo">Saving in Drafts. Undo?</string>
+    <string name="saving_in_drafts">Saving in Drafts</string>
+    <string name="post_deleted">Post Deleted</string>
+</resources>
